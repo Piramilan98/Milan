@@ -1,0 +1,12 @@
+.root{
+    -fx-background-size: cover;
+}
+
+.home-box{
+-fx-background-radius: 30;
+-fx-border-radius: 30;
+}
+
+.table__value:hover{
+-fx-background-color:#ff0000;
+}
